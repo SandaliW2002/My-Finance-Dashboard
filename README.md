@@ -4,8 +4,11 @@
 
 I designed this interactive dashboard to track and analyze my income vs. expenses (2020–2024), providing a clear picture of spending patterns and financial habits. By simply selecting a year or month, I can instantly view:
 📊 Total income and total expenses
+
 📉 Monthly expense breakdowns
+
 🔍 Top spending categories (where my money goes the most!)
+
 📈 Expense percentage comparisons
 
 This project was not only a great way to manage my personal finances, but also a chance to apply and enhance my data analysis & visualization skills.
